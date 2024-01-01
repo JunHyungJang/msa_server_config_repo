@@ -1,7 +1,14 @@
+# token:
+#   expiration_time: 8640000000  
+#   secret: my_token_native_changed2_default
+#   # secret: '{cipher}AQCbUmeOC9LOCCUTPytXLGpOnQAyIs/VQBs4nFKUX8IOYrCj9j5CgwJVW+4LUfm9WV9gaRdBfb00moTkrgO1ULDZAs6GyecMasueDMWh/8B+B9+5sUMrEOavt7WiSAQwihFEH70tRNZ1A9wbLUIVtOU92Xl7ZmGktTHD829YYjYlE0Uet+XMYGKcM+S6oJm9knsqxYLoNikIR04dM6ogtdUOEf7NiadlXsZsDrDccAFfdhFB6BD27Puz4Bf6IgR4GVOzhUcA9yXvg5rFb2fEBkSuwJWOBuC/WlClD3hNWcGjve8fhFiKfwxXwM+oW1S4tEGxY7NzV5SaYsAYfae+X+Rzwdy9pajPIeeP/tN+hmMTZa3K/4sxzUwcW/SATT2F3sZmXb7MeBCGHkSZS7chQ03gDN25b9DwCdxSFchroew1rw=='
+
+# gateway:
+#   ip: 192.168.0.8
+
 token:
   expiration_time: 8640000000  
   secret: my_token_native_changed2_default
-  # secret: '{cipher}AQCbUmeOC9LOCCUTPytXLGpOnQAyIs/VQBs4nFKUX8IOYrCj9j5CgwJVW+4LUfm9WV9gaRdBfb00moTkrgO1ULDZAs6GyecMasueDMWh/8B+B9+5sUMrEOavt7WiSAQwihFEH70tRNZ1A9wbLUIVtOU92Xl7ZmGktTHD829YYjYlE0Uet+XMYGKcM+S6oJm9knsqxYLoNikIR04dM6ogtdUOEf7NiadlXsZsDrDccAFfdhFB6BD27Puz4Bf6IgR4GVOzhUcA9yXvg5rFb2fEBkSuwJWOBuC/WlClD3hNWcGjve8fhFiKfwxXwM+oW1S4tEGxY7NzV5SaYsAYfae+X+Rzwdy9pajPIeeP/tN+hmMTZa3K/4sxzUwcW/SATT2F3sZmXb7MeBCGHkSZS7chQ03gDN25b9DwCdxSFchroew1rw=='
 
 gateway:
-  ip: 192.168.0.8
+  ip: 172.18.0.4
